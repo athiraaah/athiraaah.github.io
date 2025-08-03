@@ -2,7 +2,7 @@
 
 This is my personal portfolio website, built to showcase my projects, skills, and professional profile as a cybersecurity analyst. It is hosted using GitHub Pages at:
 
-🔗 [https://athiravellali.github.io](https://athiravellali.github.io)
+🔗 [https://athiraaah.github.io](https://athiraaah.github.io)
 
 ---
 
